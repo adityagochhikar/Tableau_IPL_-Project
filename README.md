@@ -1,44 +1,45 @@
-Problem Statement
+# 🏏 IPL Interactive Dashboard (2008-2017)
+
+# 📊 Overview
+
+This Power BI/Tableau dashboard provides an in-depth analysis of IPL match statistics, player performance, and team trends from 2008 to 2017. Using matches.csv and deliveries.csv, it highlights key insights into wins, top scorers, and season-wise performance.
+
+# 🚀 Features
+
+# 🏟 Match Statistics
+
+✔ Toss Outcome vs. Match Outcome (for each venue)
+
+✔ Biggest Wins (by runs & wickets)
+
+✔ Highest Totals across all seasons
+
+# 🏏 Player Statistics
+
+✔ Orange Cap Contenders (Top run-scorers per season)
+
+✔ Purple Cap Contenders (Top wicket-takers per season)
+
+✔ Most Fours & Sixes (per season & overall)
+
+# 📈 Team Statistics
+
+✔ Season-wise Team Performance (Wins vs. Losses)
+
+✔ Win % (Home vs. Away)
+
+# 📌 Insights & Impact
+
+📊 Helps cricket analysts & fans track team and player trends.
+
+📌 Enables IPL strategists to analyze venue-wise match trends.
+
+📍 Supports decision-making for team management using historical data.
+
+# 🔹 Future Enhancements:
+
+✅ Adding real-time IPL data integration.
+
+✅ Implementing predictive analytics for match outcomes.
 
 
-
-matches.csv - It contains match-level information for each and every match held in IPL from 2008 to 2017.
-
-
-deliveries.csv - It contains ball-by-ball information for each of the matches.
-
-
-
-
-Combining the information in these two data sets, you will be creating an interactive dashboard that highlights some of the important statistics of IPL over the years. You will learn more about the datasets in one of the videos below.
-
-
-Sub-tasks
-
-
-1. Match Statistics
-
-Toss outcome vs Match outcome (for each Ground/Venue) 
-
-Biggest wins (by runs and by wicket)
-
-Highest totals (across all the seasons)
-
-
- 
-
-2. Player Statistics
-
-Orange Cap contenders (The batsmen who have scored the maximum number of runs in a particular season)
-
-Purple Cap contenders (The bowlers who have taken the maximum number of wickets in a particular season)
-
-Batsmen who have hit the most number of fours and sixes (per season and overall)
-
-
-
-3. Team Statistics
-
-Season-wise team performance (wins vs losses)
-
-Win %age (home vs away)
